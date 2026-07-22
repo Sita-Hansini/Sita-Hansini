@@ -2,7 +2,9 @@
 
 #  Hi, I'm Anjana Sanjay 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=M.Tech+AI+Student;Machine+Learning+Enthusiast;Future+AI+Researcher;Explainable+AI+Explorer;Always+Learning+🌱" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=M.Tech+AI+Student;Machine+Learning+Enthusiast;Future+AI+Researcher;Explainable+AI+Explorer;Always+Learning" alt="Typing SVG" />
+</p>
 
 ### 🤖 Artificial Intelligence • 🔍 Explainable AI • 👁️ Computer Vision • 💡 Research
 
