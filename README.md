@@ -2,46 +2,56 @@
 
 #  Hi, I'm Anjana Sanjay 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=M.Tech+AI+Student;Machine+Learning+Enthusiast;Future+AI+Researcher;Explainable+AI+Explorer;Always+Learning" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&lines=M.Tech+AI+%26+Software+Engineering+Student;Machine+Learning+Explorer;Future+AI+Researcher;Explainable+AI+Enthusiast;Computer+Vision+Learner;Always+Curious+🌱" />
 
-### 🤖 Artificial Intelligence • 🔍 Explainable AI • 👁️ Computer Vision • 💡 Research
+###  Turning Curiosity into Intelligent Solutions
 
-*"Curiosity is my greatest strength. Every project is another step toward understanding intelligence."*
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=9D4EDD&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# About Me
+#  About Me
 
-🎓 M.Tech in **Artificial Intelligence & Software Engineering**
+```python
+class Anjana:
 
- Passionate about
+    def __init__(self):
+        self.role = "M.Tech AI Student @ CUSAT"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Explainable AI",
+            "Computer Vision",
+            "Federated Learning",
+            "Data Science"
+        ]
 
-- Machine Learning
-- Deep Learning
-- Explainable AI
-- Computer Vision
-- Federated Learning
-- Data Science
+        self.currently_learning = [
+            "Research",
+            "AI",
+            "Advanced Deep Learning"
+        ]
 
- I enjoy building AI that people can **understand, trust, and benefit from.**
+        self.goal = "Build AI that people can trust."
 
-I believe technology should solve meaningful problems—not just impressive ones.
+me = Anjana()
+```
 
 ---
 
 #  Currently Working On
 
-🧠 AI Projects
+🌱 Learning Advanced AI
 
-📚 Learning Deep Learning
+🧠 Machine Learning Projects
 
-🔍 Exploring Explainable AI
+🔬 Research
 
-📄 Research & Publications
+📖 Explainable AI
+
+👁️ Computer Vision
 
 ---
 
@@ -61,33 +71,25 @@ I believe technology should solve meaningful problems—not just impressive ones
 
 ### AI & ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-
----
-
-### Tools
-
-VS Code • Git • GitHub • Google Colab • MySQL • Power BI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ---
 
-#  Areas of Interest
+#  Interests
 
-🤖 Artificial Intelligence
-
-🧠 Deep Learning
-
-👁 Computer Vision
+🧠 Artificial Intelligence
 
 🔍 Explainable AI
+
+👁️ Computer Vision
 
 🌐 Federated Learning
 
@@ -97,35 +99,70 @@ VS Code • Git • GitHub • Google Colab • MySQL • Power BI
 
 ---
 
-#  Beyond Coding
+#  GitHub Analytics
 
-🌸 Gardening
+<p align="center">
 
-🐾 Animals
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-📚 Reading
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-🎬 Video Editing
-
-🎨 Creativity
-
-🌎 Nature
+</p>
 
 ---
 
+<p align="center">
 
-#  Quote
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> **"The future of AI isn't just about making machines smarter.
-It's about making intelligence understandable, trustworthy, and useful for everyone."**
+</p>
+
+---
+
+#  Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+#  Snake Eating My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+#  Fun Facts
+
+🌿 I enjoy gardening.
+
+🐾 Animal lover.
+
+📚 Always learning something new.
+
+🎬 I enjoy creative editing and design.
+
+💜 I believe curiosity is the beginning of every great discovery.
+
+---
+
+#  Favorite Quote
+
+> *"The goal isn't to build smarter machines. The goal is to build AI that helps people understand the world better."*
 
 ---
 
 <div align="center">
 
-###  Thanks for visiting!
+###  Thanks for visiting my profile!
 
- If you enjoy my work, feel free to explore my repositories.
-
+*"Keep learning. Keep building. Stay curious."*
 
 </div>
