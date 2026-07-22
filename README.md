@@ -17,7 +17,6 @@
 # About Me
 
 🎓 M.Tech in **Artificial Intelligence & Software Engineering**
-at **CUSAT**
 
  Passionate about
 
