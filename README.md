@@ -2,11 +2,13 @@
 
 #  Hi, I'm Anjana Sanjay 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&lines=M.Tech+AI+%26+Software+Engineering+Student;Machine+Learning+Explorer;Future+AI+Researcher;Explainable+AI+Enthusiast;Computer+Vision+Learner;Always+Curious+🌱" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anjana+Sanjay;Machine+Learning+Explorer;Future+AI+Researcher;Explainable+AI+Enthusiast;Always+Learning" />
+</p>
 
 ###  Turning Curiosity into Intelligent Solutions
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=9D4EDD&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sita-Hansini&label=Profile+Views&color=9D4EDD&style=for-the-badge"/>
 
 </div>
 
@@ -103,9 +105,9 @@ me = Anjana()
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sita-Hansini&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sita-Hansini&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,7 +115,7 @@ me = Anjana()
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sita-Hansini&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -123,7 +125,7 @@ me = Anjana()
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sita-Hansini&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -133,7 +135,7 @@ me = Anjana()
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Sita-Hansini/Sita-Hansini/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
