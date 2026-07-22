@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hi, I'm Anjana Sanjay 👋
+#  Hi, I'm Anjana Sanjay 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=M.Tech+AI+Student;Machine+Learning+Enthusiast;Future+AI+Researcher;Explainable+AI+Explorer;Always+Learning+🌱" />
 
@@ -12,12 +12,12 @@
 
 ---
 
-# 🌸 About Me
+# About Me
 
 🎓 M.Tech in **Artificial Intelligence & Software Engineering**
 at **CUSAT**
 
-💜 Passionate about
+ Passionate about
 
 - Machine Learning
 - Deep Learning
@@ -26,13 +26,13 @@ at **CUSAT**
 - Federated Learning
 - Data Science
 
-🌱 I enjoy building AI that people can **understand, trust, and benefit from.**
+ I enjoy building AI that people can **understand, trust, and benefit from.**
 
 I believe technology should solve meaningful problems—not just impressive ones.
 
 ---
 
-# 🚀 Currently Working On
+#  Currently Working On
 
 🧠 AI Projects
 
@@ -44,7 +44,7 @@ I believe technology should solve meaningful problems—not just impressive ones
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -78,7 +78,7 @@ VS Code • Git • GitHub • Google Colab • MySQL • Power BI
 
 ---
 
-# 🌼 Areas of Interest
+#  Areas of Interest
 
 🤖 Artificial Intelligence
 
@@ -96,7 +96,7 @@ VS Code • Git • GitHub • Google Colab • MySQL • Power BI
 
 ---
 
-# 🌿 Beyond Coding
+#  Beyond Coding
 
 🌸 Gardening
 
@@ -112,31 +112,8 @@ VS Code • Git • GitHub • Google Colab • MySQL • Power BI
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 💭 Quote
+#  Quote
 
 > **"The future of AI isn't just about making machines smarter.
 It's about making intelligence understandable, trustworthy, and useful for everyone."**
@@ -145,10 +122,9 @@ It's about making intelligence understandable, trustworthy, and useful for every
 
 <div align="center">
 
-### 🌸 Thanks for visiting!
+###  Thanks for visiting!
 
-⭐ If you enjoy my work, feel free to explore my repositories.
+ If you enjoy my work, feel free to explore my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
