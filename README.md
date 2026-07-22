@@ -3,57 +3,45 @@
 #  Hi, I'm Anjana Sanjay 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anjana+Sanjay;Machine+Learning+Explorer;Future+AI+Researcher;Explainable+AI+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=M.Tech+AI+Student;Machine+Learning+Enthusiast;Future+AI+Researcher;Explainable+AI+Explorer;Always+Learning" alt="Typing SVG" />
 </p>
 
-###  Turning Curiosity into Intelligent Solutions
+### 🤖 Artificial Intelligence • 🔍 Explainable AI • 👁️ Computer Vision • 💡 Research
 
-<img src="https://komarev.com/ghpvc/?username=Sita-Hansini&label=Profile+Views&color=9D4EDD&style=for-the-badge"/>
+*"Curiosity is my greatest strength. Every project is another step toward understanding intelligence."*
 
 </div>
 
 ---
 
-#  About Me
+# About Me
 
-```python
-class Anjana:
+🎓 M.Tech in **Artificial Intelligence & Software Engineering**
 
-    def __init__(self):
-        self.role = "M.Tech AI Student @ CUSAT"
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Explainable AI",
-            "Computer Vision",
-            "Federated Learning",
-            "Data Science"
-        ]
+ Passionate about
 
-        self.currently_learning = [
-            "Research",
-            "AI",
-            "Advanced Deep Learning"
-        ]
+- Machine Learning
+- Deep Learning
+- Explainable AI
+- Computer Vision
+- Federated Learning
+- Data Science
 
-        self.goal = "Build AI that people can trust."
+ I enjoy building AI that people can **understand, trust, and benefit from.**
 
-me = Anjana()
-```
+I believe technology should solve meaningful problems—not just impressive ones.
 
 ---
 
 #  Currently Working On
 
-🌱 Learning Advanced AI
+🧠 AI Projects
 
-🧠 Machine Learning Projects
+📚 Learning Deep Learning
 
-🔬 Research
+🔍 Exploring Explainable AI
 
-📖 Explainable AI
-
-👁️ Computer Vision
+📄 Research & Publications
 
 ---
 
@@ -73,25 +61,33 @@ me = Anjana()
 
 ### AI & ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
 
 ---
 
-#  Interests
+### Tools
 
-🧠 Artificial Intelligence
+VS Code • Git • GitHub • Google Colab • MySQL • Power BI
+
+---
+
+#  Areas of Interest
+
+🤖 Artificial Intelligence
+
+🧠 Deep Learning
+
+👁 Computer Vision
 
 🔍 Explainable AI
-
-👁️ Computer Vision
 
 🌐 Federated Learning
 
@@ -101,70 +97,35 @@ me = Anjana()
 
 ---
 
-#  GitHub Analytics
+#  Beyond Coding
 
-<p align="center">
+🌸 Gardening
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sita-Hansini&show_icons=true&theme=tokyonight&hide_border=true"/>
+🐾 Animals
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sita-Hansini&theme=tokyonight&hide_border=true"/>
+📚 Reading
 
-</p>
+🎬 Video Editing
 
----
+🎨 Creativity
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sita-Hansini&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+🌎 Nature
 
 ---
 
-#  Contribution Graph
 
-<p align="center">
+#  Quote
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sita-Hansini&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-#  Snake Eating My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sita-Hansini/Sita-Hansini/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-#  Fun Facts
-
-🌿 I enjoy gardening.
-
-🐾 Animal lover.
-
-📚 Always learning something new.
-
-🎬 I enjoy creative editing and design.
-
-💜 I believe curiosity is the beginning of every great discovery.
-
----
-
-#  Favorite Quote
-
-> *"The goal isn't to build smarter machines. The goal is to build AI that helps people understand the world better."*
+> **"The future of AI isn't just about making machines smarter.
+It's about making intelligence understandable, trustworthy, and useful for everyone."**
 
 ---
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+###  Thanks for visiting!
 
-*"Keep learning. Keep building. Stay curious."*
+ If you enjoy my work, feel free to explore my repositories.
+
 
 </div>
